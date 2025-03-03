@@ -1,6 +1,6 @@
 primary_name: "Chen Meilin"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Chen Meilin"
 
 # positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -35,13 +35,13 @@ portrait_url: /assets/images/photos/portrait_1.JPG
 
 education:
 - name: University of Hong Kong
-  logo: /assets/images/badges/HKU_badget.png
+ # logo: /assets/images/badges/HKU_badget.png
   position: >- 
     Department of Economics <br/>
     Master of Economics (Advanced Research Stream)
   date: Sep. 2023 - present
 - name: University of International Business and Economics
-  logo: /assets/images/badges/UIBE_badget.png
+ # logo: /assets/images/badges/UIBE_badget.png
   position: B.A. in Economics with Honors Degree
   date: Sep. 2019 - Jul. 2023
 
