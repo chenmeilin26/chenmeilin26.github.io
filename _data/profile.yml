@@ -2,8 +2,8 @@ primary_name: "Chen Meilin"
 # secondary_name: ""
 navbar_name: "Chen Meilin"
 
-# positions:
-# - name: MEcon Student of HKU (Advanced Research Stream)
+positions:
+ - name: MEcon Student at HKU (Advanced Research Stream)
 
 
 email: "cmeilin1226@outlook.com"
@@ -14,7 +14,7 @@ email: "cmeilin1226@outlook.com"
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 # Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: 97990820b
+linkedin: meilin-chen-97990820b
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
