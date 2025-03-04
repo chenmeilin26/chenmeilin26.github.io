@@ -2,8 +2,8 @@ primary_name: "Chen Meilin"
 # secondary_name: ""
 navbar_name: "Chen Meilin"
 
-positions:
- - name: MEcon Student of HKU (Advanced Research Stream)
+# positions:
+# - name: MEcon Student of HKU (Advanced Research Stream)
 
 
 email: "cmeilin1226@outlook.com"
@@ -21,7 +21,6 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
   Hi, I'm Meilin Chen. I'm currently an MEcon student at HKU. And I'm applying for Economics PhD program this year.
-  # <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> 
   </p>
   <p>
   My research interests include Labor Economics, Development Economics and International Trade. 
