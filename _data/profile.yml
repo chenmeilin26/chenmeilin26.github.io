@@ -1,11 +1,9 @@
 primary_name: "Chen Meilin"
-secondary_name: ""
+# secondary_name: ""
 navbar_name: "Chen Meilin"
 
-# positions:
-# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-# name: Position 1 with logo
-# - name: Position 2 without logo
+positions:
+ - name: MEcon Student of HKU (Advanced Research Stream)
 
 
 email: "cmeilin1226@outlook.com"
@@ -32,21 +30,21 @@ short_bio: >-
 portrait_url: /assets/images/photos/portrait_1.JPG
 
 education:
-- name: University of Hong Kong
-logo: /assets/images/badges/HKU_badget.png
-position: >- 
+ - name: University of Hong Kong
+   logo: /assets/images/badges/HKU_badget.png
+   position: >- 
     Department of Economics <br/>
     Master of Economics (Advanced Research Stream)
-date: Sep. 2023 - present
-- name: University of International Business and Economics
-logo: /assets/images/badges/UIBE_badget.png
-position: B.A. in Economics with Honors Degree
-date: Sep. 2019 - Jul. 2023
+   date: Sep. 2023 - present
+ - name: University of International Business and Economics
+   logo: /assets/images/badges/UIBE_badget.png
+   position: B.A. in Economics with Honors Degree
+   date: Sep. 2019 - Jul. 2023
 
 
 lifestyle:
-- name: Dancing (Choreography,Hip-Hop,K-Pop)
-- name: Traveling 
-# date: 2021
-# name: A quick brown fox jumps over the lazy dog and runs away award
-# date: 2021
+ - name: Dancing (Choreography,Hip-Hop,K-Pop)
+ - name: Traveling 
+ # date: 2021
+ # name: A quick brown fox jumps over the lazy dog and runs away award
+ # date: 2021
